@@ -28,6 +28,11 @@
             }
         }
     }
+
+    echo "<p>letters: $letters</p>";
+    echo "<p>numbers: $numbers</p>";
+    echo "<p>symbols: $symbols</p>";
+
     ?>
     
 </body>
